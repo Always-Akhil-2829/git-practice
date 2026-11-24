@@ -11,4 +11,8 @@ public class Calculator {
         int result =a-b;
         System.out.println(result);
     }
+    public void modulo(int a,int b){
+        int result= a%b;
+        System.out.println(result);
+    }
 }
